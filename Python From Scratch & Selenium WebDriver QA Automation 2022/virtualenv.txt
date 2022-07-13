@@ -1,0 +1,7 @@
+pip install virtualenv
+pip3 install virtualenv
+pip list
+pip freeze
+
+virtualenv --python=PATH FOLDER_NAME
+
